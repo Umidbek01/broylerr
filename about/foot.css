@@ -1,0 +1,30 @@
+.footer .footer_main_left .footer_logo_item .sotcial span {
+    font-size: 13px;
+    font-weight: 400;
+    color: #fff;
+    font-family: HelveticaNeueCyr-Roman; }
+  .footer .footer_main_left .footer_logo_item .sotcial .sot-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 8px; }
+    .footer .footer_main_left .footer_logo_item .sotcial .sot-item a {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      background-color: #707070;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      margin-right: 8px;
+      -webkit-transition: 0.4s ease all;
+      transition: 0.4s ease all; }
+      .footer .footer_main_left .footer_logo_item .sotcial .sot-item a:hover {
+        background-color: #3ABC40;
+      }
